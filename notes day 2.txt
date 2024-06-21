@@ -1,0 +1,21 @@
+Data analysis is asking questions to the data which is nothing but insights for this 
+we need tools which will helps us to find out ans which is useful to the client 
+
+
+
+#https://drive.google.com/drive/folders/1GQpRvXAQbanGhb2xPNhqp14wjaWRe9sX
+google drive 
+
+>>when we convert the file into csv file the file will shrink in size 
+>> three extensions xls,xlsb,
+>> formula and functions 
+1.function is already made and we just need to call it in order to perform a perticular task 
+2.formula
+>>CELL REFERENCING
+>>Sum(+) is add and product(*) is multiply function (=SUM,=Product) click on tab
+>> AVG/also called as MEAN gives us the
+RANGE= max-min
+COUNT is used to know how many entry is there and this function only counts numbers and not text
+COUNTA is used to count both number and text
+COUNTIF while using this the criteria should be entered inside "" (range and criteria)
+COUNTIFS can count number of criterias not just one as the COUNTIF     
