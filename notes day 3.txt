@@ -1,0 +1,19 @@
+FORMATING
+it is the process of editing the text or the number 
+
+FORMAT PAINTER
+this will copy the format of the one cell to another it is in clipboard
+
+(IF) FUNCTION OR CONDITION
+	logical test >> for text =
+	    	 >> for numbers >,<,<=,>=
+	value if true 
+	value if false
+
+CELL REFERENCING 
+type are relative absoulate and mixed
+
+RELATIVE REFERENCING >> 
+ABSOLUTE REFERENCING >> To create an absolute reference to cell H3, place a $ symbol in front of the column letter 			and row number ($H$3) in the formula of cell E3.
+			THE SORTCUT TO ADD THE $ IS (FUN + F4 and SELECT) THE CELL OF H3
+MIXED REFRENCING     >> 
